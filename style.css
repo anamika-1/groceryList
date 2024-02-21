@@ -6,7 +6,7 @@
 
 body{
     height: 90vh;
-    background-image: url(/Project-22/img/bg.jpg);
+    background-image: url(img/bg.jpg);
     background-position: center;
     display: flex;
     align-items: center;
